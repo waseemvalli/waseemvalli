@@ -1,4 +1,4 @@
-<h1> Hi, I'm Waseem  <br/> Aspiring IT Professional  <h1>
+<h1> Hi, I'm Waseem  <br/>Aspiring IT Professional <h1>
 
 <h2></h2>
 
