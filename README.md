@@ -2,7 +2,7 @@
 
 <h2>IT Projects: </h2>
 
-<b> [Active Directory Lab] (google.com)<b>
+<b> [Active Directory Lab](google.com)<b>
 
 <!--
 **waseemvalli/waseemvalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
