@@ -1,4 +1,6 @@
-<h1> Hi, I'm Waseem 👋 <h1>
+<h1> Hi, I'm Waseem  <br/> Aspiring IT Professional  <h1>
+
+<h2></h2>
 
 <!--
 **waseemvalli/waseemvalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
