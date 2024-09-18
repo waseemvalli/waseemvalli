@@ -1,8 +1,8 @@
 <h1> Hi, I'm Waseem <h1>
 
-<h2>IT Projects: </h2>
+<h2>IT Self-Study Projects: </h2>
 
-<b> [Active Directory Lab](google.com) <b>
+<b> [Active Directory Lab](https://github.com/waseemvalli/ActiveDirectoryLab/tree/main) <b>
 
 <!--
 **waseemvalli/waseemvalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
